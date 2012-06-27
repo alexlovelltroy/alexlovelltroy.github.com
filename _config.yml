@@ -3,3 +3,5 @@ server: true
 markdown: rdiscount
 base_url: /blog/
 my_url: http://alexlovelltroy.github.com
+title: Alex Lovell-Troy
+subtitle: Version Controlled Anarchy
