@@ -1,7 +1,7 @@
 ---
 layout: post
 category: opinion
-title: Learning to blog with github
+title: Adventures in the Asana API
 subtitle: Duck Typing my Asana API
 twitter: alexlovelltroy
 github: alexlovelltroy
